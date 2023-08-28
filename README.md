@@ -1,15 +1,10 @@
-# Proyecto-DEM1-G9
-Repositorio del proyecto de diseño de elementos de máquinas 1. 2021-2
-
-Grupo 9
+# Trabajos IA y Mini-Robots
+Repositorio de los trabajos de la materia IA y Mini-Robots. 2023-1
 
 Integrantes:
 
-- Andrés Holguín R.
-- Eduardo Henao M.
-- Juan M. Rubio V.
-- Santiago Marin B.
-- Yeison D. Vega R.
+- Cristian
+- Yeison David Vega Ramirez
 
 
 
