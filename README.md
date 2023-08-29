@@ -8,7 +8,3 @@ Integrantes:
 
 
 
-[Click aquí para ir la documentación del Taller 1](https://www.overleaf.com/read/rbkvqwywxyvb)
-
-[Click aquí para ir y editar la documentación del Taller 1](https://www.overleaf.com/3874432775ktwtkwpwrnyz)
-
