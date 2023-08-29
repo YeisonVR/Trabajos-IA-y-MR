@@ -1,5 +1,5 @@
 # Trabajos IA y Mini-Robots
-Repositorio de los trabajos de la materia IA y Mini-Robots. 2023-1
+Repositorio de los trabajos de la materia IA y Mini-Robots. 2023-2
 
 Integrantes:
 
