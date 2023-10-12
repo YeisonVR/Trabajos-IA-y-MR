@@ -1,0 +1,300 @@
+Leche chocolatada,62,10,3,1.1
+Leche descremada  en polvo,36,5.1,3.5,0.1
+Leche entera,57,4.5,3,3
+Leche entera azucarada,79,10,3,3
+Leche descremada,45,4.7,3.1,1.5
+Leche cultiv.descr.,32,4.3,3.6,0.1
+Leche cultiv. entera/frutas,89,14,3.5,2.2
+Yogur con cereales,48,9,3,0.05
+Yogur con durazno,48,9,3,0.05
+Yogur con fibras y frutas,71,12.5,4.7,0.2
+Yogur con cereal azucar,119,21,3.8,2.2
+Yogur descr. saborizado,34.5,4.4,3.6,0.05
+Yogur descr. y All  Bran,75,12.5,5.1,0.4
+Yogur descr. con frutas,48,9,2.8,0.03
+Yogur descr. y corn flakes,63,11.4,4.2,0.04
+Queso ¨Philadelphia¨ ligth,200,6.6,10,16.6
+Queso Blanco diet,100,7.4,9.9,3.5
+Queso camembert0brie,527,0,26.7,29.7
+Queso cheddar Argentino,374,0,26,30
+Queso chubut,328,0,25.9,24.9
+Queso cottage,95,2,11.4,4.5
+Queso crema,245,3.7,8.2,22
+Queso cremoso,305,1.3,18.7,25
+Queso cuartirolo,273,0,21,21
+Queso dambo,356,0,26,28
+Queso de cabra,173,3.7,16,10.3
+Queso de máquina,250,1.9,16.5,17.2
+Queso edam,345,26,22,27
+Queso edam diet,268,1,30,16
+Queso emmenthal,403,0.5,27.8,28.2
+Queso fiambrín,334,1.2,17,29
+Queso fontina,369,0,27,29
+Queso fresco,307,1,24,23
+Queso fresco diet,230,1,24,1
+Queso fundido untable,285,2.9,10,25.9
+Queso fymbo,348,0,24,28
+Queso gruyere,357,10,28,26
+Queso holanda,360,0,24,28
+Queso Mar del Plata,400,0,29.5,31.3
+Queso mini fymbo,343,0,25,27
+Queso Mozzarella,334,0,24,26
+Queso Neufchatel,237,2.2,9.8,21
+Queso parmesano,393,2.9,36,26
+Queso pategrás,365,0,26,29
+Queso petit suisse,165,3.5,7.5,13
+Queso Port Salut,295,0,22,23
+Queso Port salut diet,214,0.5,26,12
+Queso provolone,392,0,30.5,30
+Queso rallado,427,0,42.5,28.5
+Queso reggianito,334,0,34,22
+Queso ricotta,185,2.5,14.5,13
+Queso ricotta descr.,105,2,13,5
+Queso roquefort,364,0,20,31
+Queso sardo,367,0,31,27
+Queso tilsit diet.,270,1,30,17
+Queso tofu,134,1,13,9
+Clara de huevo,53,1,11,0.2
+Huevo de codorniz,179,3.6,11.6,13.1
+Yema de huevo,341,2,16,29.2
+Bife angosto,182,0,20.8,10.3
+Cuadril,303,0,17.4,25.3
+Cuadril magro,158,0,21.2,7.5
+Hamburguesa,230,0.5,14,18.3
+Hamburguesa diet.,112,2.4,17,3.6
+Lomo semigordo,241,0,18.5,17.9
+Lomo magro,148,0,20.7,6.5
+Tapa de asado c/grasa,325,0,16.63,28.15
+Tapa de asado magra,154,0,20.75,7.28
+Tira de asado,401,0,14.8,37.4
+Tira de asado magro,193,0,20.7,11.6
+Vacío,144,0,21.6,5.7
+Carne de cerdo gorda,346,0,14.6,31.4
+Carne de cerdo magra,276,0,16.7,22.7
+Chivo,165,0,18.7,9.4
+Ciervo,120,0,22.9,2.4
+Liebre,135,0,21,5
+Carne de conejo,156,0,20.3,7.7
+Chinchulines de vaca,98,0,14.5,3.9
+Hígado de vaca,134,3.6,19.8,3.9
+Lengua de vaca,191,0.9,16,13.2
+Mollejas de vaca,229,0,14.4,19
+Mondongo de vaca,90,1.4,14,2.7
+Riñón de vaca,124,1.8,16.8,5
+Bondiola,353,0,21,30
+Chorizo,373,2,12.5,31
+Jamón cocido,126,3,20,4
+Jamón crudo,296,0,25.8,20.6
+Lomo,153,3,23,5
+Mortadela,309,4,17,25
+Paleta,121,3,16,5
+Panceta ahumada,558,9,58,31
+Pastrón,125,2,18,5
+Leberwurst,294,3,21,22
+Picadillo de carne,182,3.3,12,13.5
+Salamín,325,0,23,26
+Salchicha de viena,269,4.6,12,22.5
+Salchicha de viena diet,150,0,13.9,10.5
+Hamburguesa de pollo,153,1.8,19.1,7.7
+Carne de Pavo,268,0.5,20,20.1
+Pavita,163,0,21.7,6.5
+Pollo,170,0,18.2,10.2
+Menudos de pollo,103,0.1,17.5,3.1
+Bacalao,77,0,17.5,0.3
+Brótola,84,0,16.7,0.8
+Caballa,165,0,21.3,8.2
+Lenguado,87,0,19,0.5
+Merluza,90,0,19.3,0.8
+Pejerrey,87,0,18.8,0.9
+Salmón rosado,99,0,16.95,2.93
+Surubí,109,0,18.2,4
+Anchoas,175,0,11.7,10
+Arenque en salmuera,219,0,21,15
+Atún en aceite,288,0,24.2,20.5
+Atún en agua,127,0,28,0.8
+Caviar en lata,262,3.3,26.9,15
+Kani0Kama,80,0,10.5,0.3
+Sardinas en aceite,238,0,23.4,13.2
+Almeja,76,2,12.6,1.6
+Calamar,78,0,16.4,0.9
+Langosta,88,0.5,16.2,1.9
+Langostino,115,0,17.9,4.3
+Mejillón,95,3.2,14.4,2.1
+Ostra,44,3.5,5.8,0.5
+Pulpo,56,0,12.6,0.3
+Vieira,78,3.4,14.8,0.1
+Acelga,25,4.6,2.4,0.3
+Achicoria,20,3.8,1.8,0.3
+Ají Morrón rojo,24,5.1,0.8,0.2
+Alcaucil,33,6.9,2.8,0.2
+Alfalfa,52,9.5,6,0.4
+Apio,21,3.3,1.1,0
+Arvejas,84,14.4,6.3,0.4
+Batata,114,26.3,1.7,0.4
+Berenjena,25,5.6,1.2,0.2
+Berro,19,3,2.2,0.3
+Brócoli,32,5.9,3.6,0.3
+Calabaza,26,6.5,1,0.1
+Cebolla,38,8.7,1.5,0.1
+Chauchas,32,7.1,1.9,0.2
+Col de Bruselas,45,8.3,4.9,0.4
+Repollo Blanco,24,5.4,1.3,0.2
+Repollo Colorado,31,6.9,2,0.2
+Coliflor,27,5.2,2.7,0.2
+Endibia,20,4.1,1.7,0.1
+Escarola,20,4.1,1.7,0.1
+Espinaca,26,4.3,3.2,0.3
+Espárrago,26,5,2.5,0.2
+Haba,118,20.3,9.3,0.4
+Hinojo,28,5.1,2.8,0.4
+Hongos,28,4.4,2.7,0.3
+Lechuga,13,2.9,0.9,0.1
+Choclo,96,22.1,3.5,1
+Palmito,26,5.2,2.2,0.2
+Palta,162,6.4,1.8,16
+Papa,76,17.1,2.1,0.1
+Pepino,15,2.7,0.7,0.1
+Rabanito,16,2.8,0.6,0.1
+Remolacha,44,9.5,1.7,0.1
+Soja,58,5.9,4.1,1.1
+Tomate,22,4.7,1.1,0.2
+Zanahoria,42,9.7,1.1,0.2
+Zapallito,17,3.6,1.2,0.1
+Arvejas secas,340,60.3,24.1,1.3
+Garbanzos,360,61,20.5,4.8
+Lentejas,340,60.1,24.7,1.1
+Porotos,340,61.3,22.3,1.6
+Soja,306,33.3,33.4,16.1
+Ananá,52,13.7,0.4,0.2
+Banana,85,22.2,1.1,0.2
+Cereza,58,14.3,1.2,0.3
+Ciruela,47,11.9,0.6,0.2
+Coco fresco,296,13.7,3.5,27.2
+Damasco,57,13.8,0.8,0.6
+Durazno,52,13.3,0.8,0.2
+Frutilla,36,8.5,0.8,0.3
+Granada,67,16.2,0.8,0.7
+Higo,62,15.6,1.2,0.2
+Kinoto,62,15.6,1.3,0.2
+Kiwi,53,10.8,0.8,0.6
+Limón,29,8.1,0.6,0.6
+Mandarina,43,10.9,0.7,0.2
+Manzana,58,15.2,0.3,0.3
+Melón,44,11.1,0.6,0.3
+Naranja,42,10.5,0.8,0.2
+Níspero,44,10.7,0.2,0.6
+Pera,56,14.8,0.3,0.2
+Pomelo,41,10.6,0.5,0.1
+Sandía,22,5.3,0.5,0.1
+Uva,68,16.7,0.6,0.7
+Almendra,547,19.6,18.6,54.1
+Avellana,647,19.8,10.8,63.2
+Castaña de pará,640,20.5,13.2,60.3
+Maní,560,17.5,26.7,47.3
+Nuez,664,13.2,13.7,67.2
+Pistacho,594,19,19.3,53.7
+Ciruela,255,67.4,21,0.6
+Durazno,262,68.3,3.1,0.7
+Dátil,274,72.9,2.2,0.5
+Higo,274,69.1,4.3,1.3
+Pasa de uva,289,77.4,2.5,0.2
+Ananá,35,8.34,0.38,0.12
+Cóctel de Frutas diet,36,8.34,0.38,0.12
+Durazno en almíbar diet,14,2.8,0.2,0.2
+Peras en almíbar diet,25,5.5,0.4,0.2
+All Bran,233,73.3,13.3,3.3
+Arroz Blanco,343,78.6,6.7,0.25
+Arroz integral,353,75.8,8.7,1.7
+Avena ¨Nestum¨,410,71.5,13,8
+Avena arrollada,387,62.5,12.7,9.5
+Avena,383,58.9,17,8.8
+Cereal Mix,375,67.5,9.5,7.2
+Choco cereal,400,86.7,6.7,3.3
+Copos de Maíz,367,83,6.6,0
+Copos de Maíz azucarados,367,93,3.3,0
+Froot Loops,367,83.3,6.7,3.3
+Harina de Gluten,378,47.2,41.4,1.9
+Maíz,374,81.4,7.2,1.2
+Almidon de Maíz,355,88.2,0.3,0.1
+Sémola,346,71,12,1.5
+Trigo harina,345,74.5,9.5,1.1
+Trigo harina integral,333,71,13.3,2
+Salvado de Trigo,353,61.9,16,4.6
+Cappelettis cuatro Quesos,275,47,8.5,5.9
+Fideos,369,75.2,12.5,1.2
+Fideos soperos,343,72.2,11,1.1
+Masa de empanadas,385,43.5,5,21.2
+Masa de pizza de molde,246,46.9,6.6,3.4
+Ñoquis de papa,246,40.2,6.3,6.6
+Ravioles de carne y jamón,253,44.4,9.1,4.4
+Tallarines al huevo,287,56.8,9.2,2.6
+Fideos de gluten,363,54,33,1.6
+Fideos de harina integral,359,70,15.4,1.7
+Fideos diet,370,54,32,1
+Pan alemán,263,56.5,8.9,0.2
+Pan Matzá,390,84.7,10,1
+Pan francés,269,57.4,9.3,0.2
+Pan Lacteado,256,52.4,7.6,1.7
+Pan de centeno,245,50.5,8.2,1.1
+Pan de salvado doble diet,228,36.8,13.5,3
+Bombas,373,33.4,14,20.4
+Cañón de dulce de leche,397,53.7,6.7,17.3
+Churros,348,40,4.6,20
+Doughnuts,391,51.4,4.6,18.6
+Magdalena,391,48.4,5.3,18.4
+Medialuna,318,55,9.1,6.9
+Mil hojas,630,45,8.6,46.2
+Palmeras,475,45,5.2,30.5
+Panqueques,235,28.9,9.4,9.1
+Scons,398,49.3,10.8,17.5
+Bay0biscuit,392,83.3,8.6,2.7
+Galleta marinera,361,75.9,12.8,0.7
+Galletitas de agua,415,72.2,8.6,10.2
+Galletitas con salvado,438,69.3,13.8,12.4
+Galletitas con salvado diet,310,59.2,13,2
+Galletitas dulces,457,73.4,7,15.1
+Galletitas dulces rellenas,496,70.7,3.5,22.1
+Grisines,342,72.6,12.5,0.2
+Vainilla,388,81.6,7.8,3.4
+Crema de leche,422,2.5,1.7,45
+Manteca,744,0,1.5,82
+Manteca diet,381,0,6.5,39.4
+Manteca de cacao,925,0,0,94.5
+Manteca de maní,581,17.2,27.8,49.4
+Margarina,730,0.4,0.6,81
+Margarina diet,333,1.8,0.2,36.1
+Aceite de girasol,860,0,0,100
+Aceite de oliva,860,0,0,100
+Ketchup,150,3.5,2,0
+Mayonesa,800,1.5,1,81.3
+Mostaza,75,6.4,4.7,4.4
+Salsa blanca,163,8.8,3.9,12.5
+Salsa de soja,61,8.3,8.8,0
+Salsa pomarola,60,3.2,1.9,4.4
+Salsa golf,640,7,1.6,67
+Mayonesa ligth,374,7.5,0.5,38
+Azúcar blanca,385,99.5,0,0
+Azúcar morena,373,96.4,0,0
+Dulce de batata,255,62.4,0.1,0.55
+Dulce de leche,284,52,5.5,6
+Dulce de membrillo,278,86.8,0.98,0.44
+Jaleas,261,65,0.2,0
+Mermelada,272,70,0.6,0.1
+Miel,294,79.5,0.3,0
+Dulce de batata diet,171,42,0.1,0.16
+Dulce de Leche diet,210,27,6,2.5
+Jalea diet,106,26.1,0.4,0.07
+Mermelada diet,110,26.8,0.4,0.007
+Agua tónica,34,8.5,0,0
+Alimento de soja líquido,44,10.1,0.5,0.2
+Bebida gaseosa azucarada,48,12,0,0
+Almendras tostadas,627,19.5,18.6,57.7
+Chizitos,520,56,12,32
+Maní salado,600,20,32,44
+Palitos salados,591,53.9,7.3,38.5
+Papas fritas,540,48,8,36
+Pochoclo,386,76.4,12.9,5
+Pochoclo acaramelado,520,64,4,28
+Semillas de amapola,533,23.7,18,44.7
+Semillas de girasol,560,19.9,23,47.3
+Semillas de sésamo,563,21.6,18.6,49.1
