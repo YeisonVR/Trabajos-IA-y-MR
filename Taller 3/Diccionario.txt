@@ -1,0 +1,17 @@
+alimentos = [
+    ("Leche chocolatada", 62, 10, 3, 1.1),
+    ("Yogur con cereales", 48, 9, 3, 0.05),
+    ("Clara de huevo", 53, 1, 11, 0.2),
+    ("Huevo de codorniz", 179, 3.6, 11.6, 13.1),
+    ("Yema de huevo", 341, 2, 16, 29.2),
+    ("Bife angosto", 182, 0, 20.8, 10.3),
+    ("Cuadril", 303, 0, 17.4, 25.3),
+    ("Jamón crudo", 296, 0, 25.8, 20.6),
+    ("Lomo", 153, 3, 23, 5),
+    ("Mortadela", 309, 4, 17, 25),
+    ("Paleta", 121, 3, 16, 5),
+    ("Picadillo de carne", 182, 3.3, 12, 13.5),
+    ("Atún en aceite", 288, 0, 24.2, 20.5),
+    ("Atún en agua", 127, 0, 28, 0.8),
+    ("Caviar en lata", 262, 3.3, 26.9, 15)
+]
